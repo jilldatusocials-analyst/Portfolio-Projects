@@ -1,2 +1,2 @@
-# DataCleaningProject
-Here is my first SQL Data Cleaning Project that I created recently. 
+# Portfolio Projects
+Here are the data I cleaned when I started learning data analytics. 
